@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Muhammad Zain Khawaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-zain-khawaja)](https://github.com/m-zain-khawaja/github-readme-stats)
+
+
 <!--
 **m-zain-khawaja/m-zain-khawaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
